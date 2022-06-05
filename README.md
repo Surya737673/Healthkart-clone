@@ -65,6 +65,6 @@ You can also take the glimpse of our Project, just follow the below steps:
 
 ## Demo 🎥
 
--Deployed Link: [HealthKart-clone](https://app.netlify.com/sites/preeminent-crepe-9a703f)
+-Deployed Link: [HealthKart-clone](https://preeminent-crepe-9a703f.netlify.app/)
 
 
